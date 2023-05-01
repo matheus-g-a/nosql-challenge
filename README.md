@@ -33,7 +33,7 @@ To make sure that the program will work you have to install mongodb, python 3.9 
 
 ## Usage
 
-This project should be executed by initializing the mango server and import the db on the terminal and coding using pandasjupyter lab.
+This project should be executed by initializing the mango server and import the db on the terminal and coding using pandas and pymongo on jupyter lab/notebook.
 
 
 ---
